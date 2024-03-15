@@ -1,0 +1,27 @@
+/* styles.css (or any other appropriate file) */
+
+.view-note-container {
+  padding: 20px;
+  }
+  
+  .view-note-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .view-note-description {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+
+  /* .view-note-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  } */
